@@ -1,0 +1,17 @@
+以下是一些常用的MySQL监控告警工具：
+
+MySQL Enterprise Monitor：这是MySQL官方提供的商业工具，具有强大的监控和告警功能，可以监控MySQL实例的性能和健康状态。
+
+Prometheus + Grafana：Prometheus用于收集和存储时间序列数据，Grafana则用于可视化，结合这两个工具可以实现灵活的MySQL监控和告警。
+
+Percona Monitoring and Management (PMM)：这是一个开源的数据库监控解决方案，专为MySQL、MariaDB和MongoDB设计，提供性能分析和监控功能。
+
+Zabbix：Zabbix是一款开源监控工具，可以监控各种系统和应用，包括MySQL。通过自定义模板，可以灵活设置告警条件。
+
+Nagios：Nagios是一种开源的监控解决方案，支持对MySQL的监控和告警，适用于基础设施监控。
+
+New Relic、Datadog等SaaS工具：这些云监控服务提供了对MySQL的全面监控方案，包括实时性能指标、告警和历史数据分析。
+
+Monyog：这是一款专为MySQL数据库设计的监控和管理工具，提供实时监控、性能优化建议和告警功能。
+
+
